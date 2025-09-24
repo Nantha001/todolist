@@ -1,0 +1,38 @@
+.todo-container{
+
+    padding-left: 30px;
+    padding-right: 30px;
+    
+    margin: 40px;
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+form{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items: flex-end;
+    
+   
+
+}
+
+input{
+    width: 80%;
+    padding: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+button{
+    padding: 20px;
+    color: red;
+    background: transparent;
+
+    font-size: bold;
+
+}
