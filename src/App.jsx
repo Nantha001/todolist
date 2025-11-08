@@ -68,7 +68,7 @@ function App() {
   useEffect(() => {
     apiCallTodo()
 
-  }, [])
+  }, [res])
 
 
 function handleUpdate(){
